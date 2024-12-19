@@ -23,10 +23,10 @@ bedrock:
   clone-remote-port: false
   # The MOTD that will be broadcasted to Minecraft: Bedrock Edition clients. This is irrelevant if "passthrough-motd" is set to true
   # If either of these are empty, the respective string will default to "Geyser"
-  motd1: "Geyser"
-  motd2: "Another Geyser server."
+  motd1: "Reland"
+  motd2: "Reland, servidor supervivencia ."
   # The Server Name that will be sent to Minecraft: Bedrock Edition clients. This is visible in both the pause menu and the settings menu.
-  server-name: "Geyser"
+  server-name: "Reland"
   # How much to compress network traffic to the Bedrock client. The higher the number, the more CPU usage used, but
   # the smaller the bandwidth used. Does not have any effect below -1 or above 9. Set to -1 to disable.
   compression-level: 6
@@ -53,7 +53,7 @@ remote:
   # Authentication type. Can be offline, online, or floodgate (see https://github.com/GeyserMC/Geyser/wiki/Floodgate).
   # For plugin versions, it's recommended to keep the `address` field to "auto" so Floodgate support is automatically configured.
   # If Floodgate is installed and `address:` is set to "auto", then "auth-type: floodgate" will automatically be used.
-  auth-type: online
+  auth-type: offline 
   # Whether to enable PROXY protocol or not while connecting to the server.
   # This is useful only when:
   # 1) Your server supports PROXY protocol (it probably doesn't)
@@ -165,7 +165,7 @@ above-bedrock-nether-building: false
 force-resource-packs: true
 
 # Allows Xbox achievements to be unlocked.
-xbox-achievements-enabled: false
+xbox-achievements-enabled: true
 
 # Whether player IP addresses will be logged by the server.
 log-player-ip-addresses: true
@@ -195,7 +195,7 @@ metrics:
 # a lot of scoreboard packets per second can cause serious lag.
 # This option allows you to specify after how many Scoreboard packets per seconds
 # the Scoreboard updates will be limited to four updates per second.
-scoreboard-packet-threshold: 20
+scoreboard-packet-threshold: 12
 
 # Allow connections from ProxyPass and Waterdog.
 # See https://www.spigotmc.org/wiki/firewall-guide/ for assistance - use UDP instead of TCP.
