@@ -149,3 +149,45 @@
 [18:19:41] [localSession-7-1/INFO]: [Geyser-Spigot] HiruyaSama has disconnected from the Java server because of Bedrock client timed out
 [18:19:42] [Server thread/INFO]: b_HiruyaSama lost connection: Disconnected
 [18:19:42] [Server thread/INFO]: b_HiruyaSama left the game
+[18:20:15] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Chimbo28
+[18:20:15] [localSession-7-2/INFO]: [Geyser-Spigot] Chimbo28 (logged in as: Chimbo28) has connected to the Java server
+[18:20:15] [Server thread/INFO]: [floodgate] Floodgate player logged in as b_Chimbo28 joined (UUID: 00000000-0000-0000-0009-01f3a29f167a)
+[18:20:15] [Server thread/INFO]: b_Chimbo28 joined the game
+[18:20:15] [Server thread/INFO]: b_Chimbo28[/127.0.0.1:0] logged in with entity id 1580 at ([world]-502.5, 63.0, 104.5)
+[18:20:15] [WebSocketConnectReadThread-90/INFO]: [Geyser-Spigot] Got a message from skin uploader: received a skin with invalid geometry: unknown/unsupported geometry format version
+[18:20:15] [WebSocketConnectReadThread-121/INFO]: [floodgate] Got a message from skin uploader: received a skin with invalid geometry: unknown/unsupported geometry format version
+[18:21:46] [Server thread/INFO]: b_Chimbo28 was blown up by Creeper
+[18:22:11] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username HiruyaSama
+[18:22:11] [localSession-7-3/INFO]: [Geyser-Spigot] HiruyaSama (logged in as: HiruyaSama) has connected to the Java server
+[18:22:11] [Server thread/INFO]: [floodgate] Floodgate player logged in as b_HiruyaSama joined (UUID: 00000000-0000-0000-0009-01f5d45d7169)
+[18:22:11] [Server thread/INFO]: b_HiruyaSama joined the game
+[18:22:11] [Server thread/INFO]: b_HiruyaSama[/127.0.0.1:0] logged in with entity id 1811 at ([world]-446.28122, 65.0, 49.00882)
+[18:22:58] [Server thread/INFO]: b_Chimbo28 drowned
+[18:23:16] [Async Chat Thread - #0/INFO]: [Not Secure] <b_Chimbo28> tío donde esta
+[18:23:30] [Server thread/INFO]: b_HiruyaSama issued server command: /tp b_chimbo28
+[18:23:30] [Server thread/INFO]: [b_HiruyaSama: Teleported b_HiruyaSama to b_Chimbo28]
+[18:24:22] [Server thread/INFO]: b_Chimbo28 was slain by Zombie
+[18:24:23] [Async Chat Thread - #1/INFO]: [Not Secure] <b_Chimbo28> no puedo romper
+[18:24:32] [Server thread/INFO]: b_HiruyaSama was slain by Zombie
+[18:24:40] [Server thread/INFO]: b_Chimbo28 was slain by Zombie
+[18:24:51] [Server thread/INFO]: b_HiruyaSama was slain by Zombie
+[18:25:15] [Server thread/INFO]: b_Chimbo28 has made the advancement [Monster Hunter]
+[18:25:18] [Server thread/INFO]: b_Chimbo28 was slain by Drowned
+[18:25:35] [Server thread/INFO]: b_HiruyaSama has made the advancement [Monster Hunter]
+[18:25:48] [Async Chat Thread - #3/INFO]: [Not Secure] <b_Chimbo28> no puedo romper
+[18:26:26] [Async Chat Thread - #3/INFO]: [Not Secure] <b_HiruyaSama> raro
+[18:26:46] [Async Chat Thread - #3/INFO]: [Not Secure] <b_Chimbo28> no puedo romper
+[18:27:07] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as b_HiruyaSama disconnected
+[18:27:07] [localSession-7-3/INFO]: [Geyser-Spigot] HiruyaSama has disconnected from the Java server because of Bedrock client timed out
+[18:27:07] [Server thread/INFO]: b_HiruyaSama lost connection: Disconnected
+[18:27:07] [Server thread/INFO]: b_HiruyaSama left the game
+[18:27:14] [Server thread/INFO]: b_Chimbo28 was slain by Drowned
+[18:27:29] [localSession-7-2/INFO]: [Geyser-Spigot] Chimbo28 has disconnected from the Java server because of Bedrock client disconnected
+[18:27:29] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as b_Chimbo28 disconnected
+[18:27:29] [Server thread/INFO]: b_Chimbo28 lost connection: Disconnected
+[18:27:29] [Server thread/INFO]: b_Chimbo28 left the game
+[18:28:23] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username HiruyaSama
+[18:28:23] [localSession-7-4/INFO]: [Geyser-Spigot] HiruyaSama (logged in as: HiruyaSama) has connected to the Java server
+[18:28:23] [User Authenticator #1/INFO]: UUID of player HiruyaSama is 4b6bc1fc-94c4-35bd-ac6a-42d3cead0f56
+[18:28:23] [Server thread/INFO]: HiruyaSama joined the game
+[18:28:23] [Server thread/INFO]: HiruyaSama[/127.0.0.1:0] logged in with entity id 2428 at ([world]-519.5, 63.0, 101.5)
