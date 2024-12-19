@@ -124,3 +124,28 @@
 [18:07:48] [Server thread/INFO]: [b_HiruyaSama: Set own game mode to Survival Mode]
 [18:08:07] [Server thread/INFO]: b_HiruyaSama issued server command: /lagg
 [18:09:37] [Server thread/INFO]: b_HiruyaSama issued server command: /lagg performance
+[18:11:14] [Server thread/INFO]: b_HiruyaSama issued server command: /lagg tps
+[18:12:28] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as b_HiruyaSama disconnected
+[18:12:28] [localSession-7-3/INFO]: [Geyser-Spigot] HiruyaSama has disconnected from the Java server because of Bedrock client timed out
+[18:12:28] [Server thread/INFO]: b_HiruyaSama lost connection: Disconnected
+[18:12:28] [Server thread/INFO]: b_HiruyaSama left the game
+[18:16:43] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Chimbo28
+[18:16:43] [localSession-7-4/INFO]: [Geyser-Spigot] Chimbo28 (logged in as: Chimbo28) has connected to the Java server
+[18:16:43] [User Authenticator #0/INFO]: UUID of player Chimbo28 is efa942b1-83a7-39af-9206-723be9ac552a
+[18:16:43] [Server thread/INFO]: Chimbo28 joined the game
+[18:16:43] [Server thread/INFO]: Chimbo28[/127.0.0.1:0] logged in with entity id 1211 at ([world]-506.5, 67.0, 95.5)
+[18:16:43] [WebSocketConnectReadThread-90/INFO]: [Geyser-Spigot] Got a message from skin uploader: received a skin with invalid geometry: unknown/unsupported geometry format version
+[18:16:43] [WebSocketConnectReadThread-121/INFO]: [floodgate] Got a message from skin uploader: received a skin with invalid geometry: unknown/unsupported geometry format version
+[18:17:27] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Please log into Xbox to join this server.
+[18:18:04] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username HiruyaSama
+[18:18:04] [localSession-7-1/INFO]: [Geyser-Spigot] HiruyaSama (logged in as: HiruyaSama) has connected to the Java server
+[18:18:05] [Server thread/INFO]: [floodgate] Floodgate player logged in as b_HiruyaSama joined (UUID: 00000000-0000-0000-0009-01f5d45d7169)
+[18:18:05] [Server thread/INFO]: b_HiruyaSama joined the game
+[18:18:05] [Server thread/INFO]: b_HiruyaSama[/127.0.0.1:0] logged in with entity id 1379 at ([world]-446.28122, 65.0, 49.00882)
+[18:18:44] [localSession-7-4/INFO]: [Geyser-Spigot] Chimbo28 has disconnected from the Java server because of Login timed out!
+[18:18:44] [Server thread/INFO]: Chimbo28 lost connection: Login timed out!
+[18:18:44] [Server thread/INFO]: Chimbo28 left the game
+[18:19:41] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as b_HiruyaSama disconnected
+[18:19:41] [localSession-7-1/INFO]: [Geyser-Spigot] HiruyaSama has disconnected from the Java server because of Bedrock client timed out
+[18:19:42] [Server thread/INFO]: b_HiruyaSama lost connection: Disconnected
+[18:19:42] [Server thread/INFO]: b_HiruyaSama left the game
